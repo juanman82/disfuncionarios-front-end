@@ -1,340 +1,206 @@
 {
   "candidates": [
     {
-      "name": "Felipe de JesÃºs CantÃº",
+      "name": "Margarita Arellanes",
       "bio": null,
-      "photo": "y_r9MpxU.png",
+      "photo": "/system/candidates/avatars/000/000/001/original/Q9yrfVPO.png?1427180453",
       "relationships": [
         {
-          "name": "CÃ¡mara Nacional de Manufacturas ElÃ©ctricas",
-          "photo": null,
+          "name": "Roberto Garza",
+          "photo": "/system/allies/avatars/000/000/074/original/443958_roberto-garza-presidente-di.jpg?1422046633",
           "urls": [
-            "http://www.eluniversal.com.mx/nacion/178071.html"
+            {
+              "Las propiedades del esposo de la alcaldesa": "http://www.reporteindigo.com/reporte/monterrey/las-propiedades-del-esposo-de-la-alcaldesa"
+            }
           ],
           "bio": null,
-          "relation_type": "Acusaciones de favoritismo/trÃ¡fico de influencias"
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
         },
         {
-          "name": "Luis Francisco MartÃ­nez Luna",
-          "photo": null,
+          "name": "Miguel Ángel Treviño Sandoval",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://info7.mx/a/noticia/201487",
-            "http://www.cndh.org.mx/sites/all/fuentes/documentos/Recomendaciones/2003/REC_2003_032.pdf"
+            {
+              "Cesan a operador de Margarita Arellanes por fraude": "http://www.excelsior.com.mx/nacional/2013/10/23/925021"
+            },
+            {
+              "Cesan a operador de Margarita Arellanes por fraude": "http://www.excelsior.com.mx/nacional/2013/10/23/925021"
+            }
           ],
           "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
         },
         {
-          "name": "Josefina VÃ¡zquez Mota",
-          "photo": null,
+          "name": "Miguel Ángel Treviño Sandoval",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://www.adnpolitico.com/2012/2012/09/03/calderon-buen-presidente-y-mal-panista-exdiputados-del-pan"
-          ],
-          "bio": null
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://www.milenio.com/politica/Comunidad-Lesbico-gay-diputada-disculpa-publica_0_268773704.html"
+            {
+              "Miguel Ángel Treviño Sandoval": "http://elhorizonte.mx/a/noticia/418974"
+            }
           ],
           "bio": null,
-          "relation_type": "DiscriminaciÃ³n de gÃ©nero y minorÃ­as"
+          "relation_type": "Acusaciones de favoritismo/tráfico de influencias"
         },
         {
-          "name": "Juan Pablo Hinojosa Canales",
-          "photo": null,
+          "name": "José Serrano Montoya",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://reporteindigo.com/reporte/monterrey/exhibir-politico-le-cuesta-la-carcel"
+            {
+              "¿FAVORECIÓ MARGARITA A SU OPERADOR POLÍTICO?": "http://www.periodicoabc.mx/noticias/mi-ciudad/2013/12/favorecio-margarita-a-su-operador-politico.php#.VMLLi2SG9ig"
+            }
           ],
           "bio": null,
-          "relation_type": "Contactos laborales/personales"
+          "relation_type": "Acusaciones de favoritismo/tráfico de influencias"
         },
         {
-          "name": "Municipio de Monterrey",
-          "photo": null,
+          "name": "Juan José  Rojas Cardona",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://www.unomasuno.com.mx/como-alcalde-regio-felipe-de-jesus-cantu-dejo-a-jovenes-sin-espacios-deportivos/"
+            {
+              "El cuartel sampetrino y el equipo de Margarita": "http://www.reporteindigo.com/reporte/monterrey/el-cuartel-sampetrino-y-el-equipo-de-margarita"
+            }
           ],
           "bio": null,
-          "relation_type": " Acusaciones de irregularidades"
+          "relation_type": "Acusaciones de favoritismo/tráfico de influencias"
         },
         {
-          "name": "Parque ecolÃ³gico Siglo XXI",
-          "photo": null,
+          "name": "Carlos Andrade Ibarra",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://www.jornada.unam.mx/2003/08/13/033n1est.php?printver=0&fly=2"
-          ],
-          "bio": null,
-          "relation_type": " Acusaciones de irregularidades"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://www.jornada.unam.mx/2006/09/25/index.php?section=estados&article=038n1est"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://norte-monterrey.vlex.com.mx/vid/dan-iberdrola-prorroga-78320829"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://gruporeforma.elnorte.com/wsjamericas/nota/default.aspx?compartir=3119203bbb4aa9d007e27dfe2bf4fc39&folio=68734&Idcol=325&pc=101&impresion=0"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://busquedas.gruporeforma.com/elnorte/Libre/Imprimir.aspx?id=240908|InfodexTextos&md5=670210bba65faea0d9fbacd04ca43ab5#ixzz3WPc2X44a"
-          ],
-          "bio": null,
-          "relation_type": " Acusaciones de irregularidades"
-        },
-        {
-          "name": "Taxis Excelencia",
-          "photo": null,
-          "urls": [
-            "http://www.reporteindigo.com/reporte/mexico/protegen-panistas"
-          ],
-          "bio": null,
-          "relation_type": " Acusaciones de irregularidades"
-        },
-        {
-          "name": "Esteban BÃ¡rcenas AlcalÃ¡ ",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/nbzeg6m"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Esteban BÃ¡rcenas AlcalÃ¡ ",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/l4ljc2v",
-            "http://tinyurl.com/qzwtu52"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Esteban BÃ¡rcenas AlcalÃ¡ ",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/l4ljc2v"
-          ],
-          "bio": null,
-          "relation_type": " Acusaciones de irregularidades"
-        },
-        {
-          "name": "VerÃ³nica Sada",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/nl2t77l"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "SecretarÃ­a de Servicios PÃºblicos",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/nf5xfyj",
-            "http://tinyurl.com/mpub6yf"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Congreso de la UniÃ³n",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/m8dul3d"
-          ],
-          "bio": null,
-          "relation_type": "Chapulineo y falta de disciplina"
-        },
-        {
-          "name": "Congreso del Estado",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/m8dul3d"
-          ],
-          "bio": null,
-          "relation_type": "Chapulineo y falta de disciplina"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/ogau8ly"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/k4kxthk"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Publitop",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/o956g5d"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Imagen_es de Impacto",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/o956g5d"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Monumentos Publicitarios ",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/o956g5d"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Publitop",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/q6mz3pa",
-            "http://tinyurl.com/n7qrhuc",
-            "http://tinyurl.com/pvohbcm",
-            "http://tinyurl.com/kngqdjp"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Publitop",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/mdh2978"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Publitop",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/n5zpsoj"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Trazzo Urbano",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/mqzu8eo"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/mxuq3n6"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mal uso de recursos pÃºblicos"
-        },
-        {
-          "name": "Puesteros",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/omcctqh"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "Municipio de Monterrey",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/njqkswq"
-          ],
-          "bio": null,
-          "relation_type": "Acusaciones de mala administraciÃ³n"
-        },
-        {
-          "name": "CampaÃ±a",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/pa3jc36"
-          ],
-          "bio": null,
-          "relation_type": "Chapulineo y falta de disciplina"
-        },
-        {
-          "name": "Esteban BÃ¡rcenas AlcalÃ¡ ",
-          "photo": null,
-          "urls": [
-            "http://tinyurl.com/pfwmqyl"
+            {
+              "Reactivan a ex ediles polémicos": "http://www.elnorte.com/aplicaciones/articulo/default.aspx?id=327013&impresion=1"
+            }
           ],
           "bio": null,
           "relation_type": "Contactos laborales/personales"
         },
         {
-          "name": "Esteban BÃ¡rcenas AlcalÃ¡ ",
-          "photo": null,
+          "name": "Marco Antonio Martínez Díaz",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://tinyurl.com/o4xzz68"
+            {
+              "Reactivan a ex ediles polémicos": "http://www.elnorte.com/aplicaciones/articulo/default.aspx?id=327013&impresion=1"
+            }
           ],
           "bio": null,
           "relation_type": "Contactos laborales/personales"
         },
         {
-          "name": "Esteban BÃ¡rcenas AlcalÃ¡ ",
-          "photo": null,
+          "name": "Críticos",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://tinyurl.com/l4ljc2v"
+            {
+              "Bloquea Arellanes en Twitter a críticos": "http://www.elnorte.com/aplicacioneslibre/preacceso/articulo/default.aspx?id=431373&urlredirect=http://www.elnorte.com/aplicaciones/articulo/default.aspx?id=431373"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Chapulineo y faltas de disciplina"
+        },
+        {
+          "name": "Campaña",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "CEE ratifica multas contra Margarita Arellanes": "http://www.milenio.com/politica/CEE_multas_Margarita-autopromocion_alcaldesa_Monterrey_0_431956896.html"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Chapulineo y faltas de disciplina"
+        },
+        {
+          "name": "Escoltas",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "Revelan que se conocían problemas de 'El Mocho'": "http://www.eluniversal.com.mx/estados/2015/impreso/revelan-que-se-conocian-problemas-de-8216el-mocho-8217-97560.html"
+            }
           ],
           "bio": null,
           "relation_type": "Contactos laborales/personales"
         },
         {
-          "name": "Parque ecolÃ³gico Siglo XXI",
-          "photo": null,
+          "name": "Auditoría Superior del Estado",
+          "photo": "/avatars/original/missing.png",
           "urls": [
-            "http://www.cmic.org/cmic/sejecutiva/cdetalle.cfm?seleccion=551"
+            {
+              "Desatiende Arellanes observaciones de auditoría sobre pavimentación": "http://www.excelsior.com.mx/nacional/2014/11/10/991625"
+            }
           ],
           "bio": null,
-          "relation_type": " Acusaciones de irregularidades"
+          "relation_type": "Acusaciones de mala administración"
+        },
+        {
+          "name": "Propiedades",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "PRI cuestiona riqueza inexplicable de Margarita Arellanes": "http://noticias.terra.com.mx/mexico/estados/nuevo-leon/pri-cuestiona-riqueza-inexplicable-de-margarita-arellanes,bea463ca284a2410VgnVCM4000009bcceb0aRCRD.html"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
+        },
+        {
+          "name": "Constructora Maiz Mier",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "Defienden costo de obra en Leones": "http://www.elnorte.com/aplicaciones/articulo/default.aspx?id=243478"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
+        },
+        {
+          "name": "Daniel Tamez Alcalá",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "Cobran en municipio; van con Margarita": "http://www.elnorte.com/aplicacioneslibre/articulo/default.aspx?id=450132&md5=dd48fcfa2e7f7f1e17d7e52cc50fb94f&ta=b3849913c10ee04e761e11add1750758&fg=58b4fe8a4e89957eec03a655ea10f794"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
+        },
+        {
+          "name": "Manuel García Mancillas",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "Cobran en municipio; van con Margarita": "http://www.elnorte.com/aplicacioneslibre/articulo/default.aspx?id=450132&md5=dd48fcfa2e7f7f1e17d7e52cc50fb94f&ta=b3849913c10ee04e761e11add1750758&fg=58b4fe8a4e89957eec03a655ea10f794"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
+        },
+        {
+          "name": "Alejandro Miller González",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "Cobran en municipio; van con Margarita": "http://www.elnorte.com/aplicacioneslibre/articulo/default.aspx?id=450132&md5=dd48fcfa2e7f7f1e17d7e52cc50fb94f&ta=b3849913c10ee04e761e11add1750758&fg=58b4fe8a4e89957eec03a655ea10f794"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
+        },
+        {
+          "name": "David Garza",
+          "photo": "/avatars/original/missing.png",
+          "urls": [
+            {
+              "Cobran en municipio; van con Margarita": "http://www.elnorte.com/aplicacioneslibre/articulo/default.aspx?id=450132&md5=dd48fcfa2e7f7f1e17d7e52cc50fb94f&ta=b3849913c10ee04e761e11add1750758&fg=58b4fe8a4e89957eec03a655ea10f794"
+            }
+          ],
+          "bio": null,
+          "relation_type": "Acusaciones de mal uso de recursos públicos"
         }
-      ]
+      ],
+      "political_party": {
+        "logo": "PAN_Party_(Mexico).svg",
+        "name": "Partido Acción Nacional",
+        "acronym": "PAN"
+      }
     }
   ]
 }
