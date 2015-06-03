@@ -1,0 +1,47 @@
+#network-chart {
+	width:1300px;
+	height:900px;
+}
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+
+.link {
+
+  stroke-opacity: .6;
+}
+
+.candidate {
+	font-size: 15px;
+	font-weight: bold;
+	text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;	
+}
+
+.relationship {
+	font-size: 12px;
+	text-shadow: 0 1px 0 #fff, 1px 0 0 #fff, 0 -1px 0 #fff, -1px 0 0 #fff;		
+}
+
+.tooltip {
+	background-color: white;
+	border: 1px solid gray;
+	padding: 5px;
+}
+
+.tooltip h1 {
+	font-size: 12px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.tooltip h3 {
+	font-size: 10px;
+	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.tooltip a {
+	font-size: 10px;
+	font-family: Verdana, Geneva, sans-serif;
+}
