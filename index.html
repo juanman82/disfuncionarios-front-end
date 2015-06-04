@@ -15,7 +15,7 @@
     <link href="css/bootstrap.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-
+    <link rel="stylesheet" type="text/css" href="css/relationcolor.css">
 
     <!-- Custom Fonts -->
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -78,7 +78,7 @@
 
     <div class="row">
         <div></div>
-        <div>    <div class="container" style="font-size: 68px !important ; color: #000000; font-family: Novecento light;text-align: center;"><p>DIS<strong>FUNCIONARIOS</strong></p></div>
+        <div>    <div class="container col-lg-12" style="font-size: 68px !important ; color: #000000; font-family: Novecento light;text-align: center;"><p>DIS<strong>FUNCIONARIOS</strong></p></div>
         </div>
         <div></div>
     </div>
@@ -124,17 +124,25 @@
             </div><!-- /.navbar-collapse -->
         </div><!-- /.container-fluid -->
     </nav>
-
-
-
-          <div><div id="network-chart"></div>
-            </div>
-
-        <!-- Controls -->
-
-
-
+    
+    <!-- Legend -->
+    <div class="container">
+            <div class="col-sm-3 irregularidades"><div>Acusaciones de irregularidades</div></div>
+            <div class="col-sm-3 recursos"><div>Acusaciones de mal uso de recursos</div></div>
+            <div class="col-sm-3 discriminacion"><div>Discriminación de género y minorías</div></div>
+            <div class="col-sm-3 administracion"><div>Acusaciones de mala administración</div></div>
     </div>
+    <div class="container">
+            <div class="col-sm-3 contactos"><div>Contactos laborales y personales</div></div>
+            <div class="col-sm-3 favoritismo"><div>Acusaciones de favoritismo</div></div>
+            <div class="col-sm-3 laborsocial"><div>Labor social</div></div>
+            <div class="col-sm-3 chapulineo"><div>Chapulineo y faltas de disciplina</div></div>
+    </div>
+    
+
+        <div>
+            <div id="network-chart"></div>
+        </div>
 
 
         <div class="row">
@@ -153,7 +161,7 @@
                             </h4>
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                            <div class="panel-body" style="text-align: justify;font-family: phagspa">
+                            <div class="panel-body" style="text-align: justify;font-family: phagspa; font-size: 1.4em; color: #262626; font-weight: bold">
                                 <p>Cuando votamos por alguien, también votamos por sus allegados. ¿Con quiénes se relaciona? ¿A quiénes se lleva de puesto en puesto? ¿Quién es su contratista favorito? ¿Cómo ha operado en puestos anteriores? Creemos que dicen más las redes de poder, que lo que se promete en campaña. Prometer más obra pública y tener amigos constructores es muy conveniente. El problema es que esas relaciones generalmente no están a la vista. Por eso creamos <em>Disfuncionarios</em>. La información relevante debe ser fácil de visualizar y entender. Y ahora está a un clic de distancia.</p> 
                                 <p><em>Disfuncionarios</em> es transparencia, rendición de cuentas y libertad de expresión. No nos interesa la vida privada de los candidatos y funcionarios. Nos interesa lo público. Lo que se sabe pero está sepultado en notas periodísticas que, después de tantos escándalos, tendemos a olvidar y, por lo tanto, es difícil ver el panorama completo. No olvidemos.</p> 
                                 <p><em>Disfuncionarios</em> es una plataforma apartidista y colaborativa. Creemos en la tecnología como herramienta para incidir en lo público. Por lo tanto, creamos tecnología para hacer justo eso: iniciar conversaciones sobre quienes piden nuestro voto. Pero además, quisimos que éste fuera un repositorio para los tiempos en que los candidatos se conviertan en nuestros gobernantes, uno que podamos utilizar para exigir rendición de cuentas.</p> 
@@ -176,10 +184,12 @@
 
     <!-- Footer -->
     <footer>
+        <div class="container">
         <div class="row">
             <div class="col-lg-12">
                 <p>Copyright &copy; México 2015</p>
             </div>
+        </div>
         </div>
     </footer>
 
