@@ -31,8 +31,11 @@ $.ajax({
             var name = JSON.parse(value).name;
             var id = JSON.parse(value).id;
             var zone = JSON.parse(value).zone;
+            var is_candidate = JSON.parse(value).is_candidate != "2";
             if(zone == "0" ||zone == "3"||zone == "8"||zone == "12"){
-                $("#candidatos").append('<option value="'+ id +'">'+ name +'</option>');
+                if(is_candidate){
+                    $("#candidatos").append('<option value="'+ id +'">'+ name +'</option>');
+                }  
             }
             console.log(name);
         });

@@ -274,8 +274,8 @@ $( "#municipios" ).change(function(){
             $(data).each(function(index, value){
                 var name = JSON.parse(value).name;
                 var id = JSON.parse(value).id;
-
-                if (JSON.parse(value).zone == zone){
+                var is_candidate = JSON.parse(value).is_candidate != "2";
+                if (JSON.parse(value).zone == zone && is_candidate){
                 	
                 	$("#candidatos").append('<option value="'+ id +'">'+ name +'</option>');
                 }
